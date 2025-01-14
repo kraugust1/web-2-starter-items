@@ -1,3 +1,12 @@
+/* diagnostic styling */
+/* the " * " 'selects' everything, use wisely */
+* {
+  outline: 1px solid rgba(255, 145, 0, 0.952);
+}
+
+
+
+
 /* temporary (maybe) backgorund color */
 
 body {
