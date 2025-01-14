@@ -11,7 +11,12 @@
 simply click on the "use this this template" button to create a new repositiory
 
 ## Citations
-
+* [Normallize CSS](https://necolas.github.io/normalize.css/tuff)
+* [Google Fonts](https://fonts.google.com/)
+* [Fontshare](https://www.fontshare.com/)
+* [Unsplash](https://unsplash.com/)
+* [Google Fonts](https://fonts.google.com/)
+* <a href="link"></a>
 
 
 Boilerplate for Web 2
