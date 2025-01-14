@@ -1,5 +1,7 @@
 /* diagnostic styling */
 /* the " * " 'selects' everything, use wisely */
+/* outline respects the 'box model', border does not */
+
 * {
   outline: 1px solid rgba(255, 145, 0, 0.952);
 }
