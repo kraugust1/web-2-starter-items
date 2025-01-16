@@ -11,7 +11,7 @@
 simply click on the "use this this template" button to create a new repositiory
 
 ## Citations
-* [Normallize CSS](https://necolas.github.io/normalize.css/tuff)
+* [Normallize CSS](https://necolas.github.io/normalize.css/)
 * [Google Fonts](https://fonts.google.com/)
 * [Fontshare](https://www.fontshare.com/)
 * [Unsplash](https://unsplash.com/)
